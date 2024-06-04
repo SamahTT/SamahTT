@@ -1,4 +1,4 @@
-## Hi there, This is Samah :alien:
+# Hi there, this is Samah :alien::cat::sparkling_heart:
 
 #### I'm a senior computer science student and a frontend developer with a passion for creating dynamic and user-friendly web applications.
 
