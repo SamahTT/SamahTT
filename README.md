@@ -1,6 +1,6 @@
 # Hi there, this is Samah :alien::cat::sparkling_heart:
 
-#### I'm a computer science grad with a passion for creating dynamic and user-friendly web applications.
+#### I'm a computer science grad with passion for creating dynamic and user-friendly web applications.
 
 - 🌱 I’m currently diving into ReactJS to enhance my skills.
 - 📫 How to reach me:
